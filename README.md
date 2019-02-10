@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #打砖块
 ========
 ###环境依赖
@@ -21,3 +22,7 @@ js html css
 ###功能说明
         
 ![事列](https://github.com/del427/dazhuankuai/raw/master/img/打砖块.gif)
+=======
+# dazhuankuai
+打砖块 js html css
+>>>>>>> origin/master
