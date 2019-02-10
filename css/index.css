@@ -1,0 +1,33 @@
+*{
+  margin:0;
+  padding:0;
+}
+.wrapper{
+  /* border:1px solid black; */
+  margin:0 auto;
+  width:510px;
+  display:flex;
+  flex-direction: column;
+}
+.ocan{
+  border:1px solid blue;
+  width:400px;
+  margin:0 auto;
+}
+.start{
+  border:1px solid black;
+  width:150px;
+  padding:10px 0px;
+  text-align:center;
+  margin:0 auto;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.suspend{
+  border:1px solid black;
+  width:150px;
+  margin:0 auto;
+  margin-bottom:15px;
+  padding:10px 0px;
+  text-align:center;
+}
